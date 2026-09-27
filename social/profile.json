@@ -1,9 +1,9 @@
 {
-  "publicKey": "ed25519:c228e14ec05bb967c8664776e46f9a22c738e924bfe5211974e7bc9f078103ba",
-  "handle": "canonical.social",
-  "repoURL": "https://github.com/gargster/canonical-social.git",
-  "displayName": "Canonical",
-  "bio": "Genesis",
-  "created": "2026-09-06T03:30:31.900606Z",
-  "signature": "ssxZsUu6fb5CyEWfydmYd6KHviprpOupfp5QViD9cmFN+7Zh8KbbJnL7/rsw9GV7yKBAq5F8cBpWCIdqwRRxBg=="
+  "publicKey": "ed25519:73d0d726b5755c68eae32a5554842cef96c568d88c622b22d92b68b18ced0bc1",
+  "handle": "demo1.social",
+  "repoURL": null,
+  "displayName": "Demo1",
+  "bio": "Demo 1",
+  "created": "2026-09-27T09:06:54.935524Z",
+  "signature": "0P32wGAbnk+nDGaCoRpWZbpgE58uTBYHMdp8j+ENS2McuIWtbOeuvpqiEiNJVzEnYOBdCnZbJXUZekD6mdIiAg=="
 }
